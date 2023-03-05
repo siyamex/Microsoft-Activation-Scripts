@@ -1,15 +1,15 @@
 @setlocal DisableDelayedExpansion
 @echo off
 
-::  For command line switches, check https://massgrave.dev/
+::  For command line switches, check https://siyamex.com/
 ::  If you want to better understand script, read from MAS separate files version. 
 ::
 ::============================================================================
 ::
 ::   This script is a part of 'Microsoft Activation Scripts' (MAS) project.
 ::
-::   Homepage: massgrave.dev
-::      Email: windowsaddict@protonmail.com
+::   Homepage: Siyamex.com
+::    
 ::
 ::============================================================================
 
